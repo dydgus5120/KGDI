@@ -2,4 +2,4 @@
 KGDI
 
 
-Link: [Google][https://google.com]
+[구글](https://google.com)
