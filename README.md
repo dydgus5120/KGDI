@@ -1,14 +1,1 @@
-- [KGDI](#kgdi)
 
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-# KGDI1
-
-# KGDI
