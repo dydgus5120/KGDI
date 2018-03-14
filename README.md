@@ -1,4 +1,4 @@
--[KGDI](#KGDI)
+- [KGDI](#kgdi)
 
 # KGDI1
 # KGDI1
