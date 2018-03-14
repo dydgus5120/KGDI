@@ -1,4 +1,4 @@
-[TOC] # KGDI
+# KGDI [TOC]
 KGDI
 
 
