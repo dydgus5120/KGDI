@@ -80,7 +80,7 @@
 
 - [구조 및 형태](#-------)
 
-  * [Flow Chart](#flow-chart)
+  * [Flow Chart](#flow chart)
 
   * [UI](#ui)
 
