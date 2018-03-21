@@ -4,6 +4,11 @@ KGDI에서 진행하는 수업 내용을 정리 해놓은 곳입니다.
 * [공부 강의 링크](#공부-강의-링크)
 * [커뮤니티](#커뮤니티)
 
+### 개발자 로드맵
+* #### 클라이언트(Client)
+
+* #### 서버(Server)
+
 ### 공부 강의 링크
 * C#
   - [MS C# 프로그래밍 가이드](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/)
