@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Chracter
+  - ChracterCollider
+  - Platform
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrond
+    uniqueID: 2364132517
+    locked: 0
+  - name: Platform
+    uniqueID: 2313493163
+    locked: 0
+  - name: Character
+    uniqueID: 396638551
+    locked: 0
+  - name: Weapon
+    uniqueID: 774419295
+    locked: 0
+  - name: Item
+    uniqueID: 173906605
+    locked: 0
